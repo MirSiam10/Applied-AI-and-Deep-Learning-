@@ -38,37 +38,6 @@ Implementation code
 
 Results and visualizations
 
-Insights and conclusions
-
-📂 Repository Structure
-Applied-AI-and-Deep-Learning/
-│
-├── Notebooks/           # Jupyter notebooks for practice tasks
-├── Projects/            # Project-based implementations
-├── Datasets/            # Sample datasets (if allowed)
-├── README.md            # This file
-└── requirements.txt     # Python dependencies
-
-📌 Getting Started
-
-To explore the repository:
-
-Clone the repo:
-
-git clone https://github.com/your-username/Applied-AI-and-Deep-Learning.git
-
-
-Navigate to the project folder:
-
-cd Applied-AI-and-Deep-Learning
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the notebooks and start exploring!
 
 🎯 Goal
 
@@ -82,6 +51,5 @@ This is primarily a personal learning repository. Contributions are welcome via 
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-email@example.com
+Email: mir10siam@gmail.com
 
-LinkedIn: your-linkedin
