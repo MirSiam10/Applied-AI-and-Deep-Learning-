@@ -24,7 +24,7 @@ Languages: Python
 
 Libraries/Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
 
-Tools: Jupyter Notebook, Git, GitHub
+Tools: Google Collab, Git, GitHub
 
 🚀 Projects
 
